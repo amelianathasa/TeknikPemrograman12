@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\TEKPRO\Praktikum12\.metadata\.plugins\org.eclipse.jdt.core
+2033496757.index
+1865797976.index
+459071358.index
